@@ -1,0 +1,35 @@
+{
+  "items": {
+    "category": "Category:",
+    "price": "Price:",
+    "addBtn": "Add to cart",
+    "update": "Update item",
+    "delete": "Delete product"
+  },
+  "cart": {
+    "total": "TOTAL:",
+    "go": "Go to payment"
+  },
+  "header": {
+    "createProduct": "Create new product",
+    "createUser": "Create new user",
+    "total": "Total:",
+    "login": "Login"
+  },
+  "item": {
+    "title": "Title:",
+    "url": "Image url:",
+    "category": "Category:",
+    "quantity": "Quantity (max):",
+    "price": "Price:",
+    "submit": "Submit"
+  },
+  "user": {
+    "name": "Name:",
+    "surname": "Surname:",
+    "email": "Email:",
+    "password": "Password:",
+    "repeatPassword": "Repeat password:",
+    "submit": "Submit"
+  }
+}

@@ -1,0 +1,16 @@
+import * as React from "react";
+
+export default ()=>{
+    return (
+            <footer className="footer mt-auto py-3 bg-dark" >
+                <ul className="nav justify-content-center border-bottom pb-3 mb-3">
+                    <li className="nav-item "><a href="#" className="nav-link px-2 text-white">Home</a></li>
+                    <li className="nav-item"><a href="#" className="nav-link px-2 text-white">Features</a></li>
+                    <li className="nav-item"><a href="#" className="nav-link px-2 text-white">Pricing</a></li>
+                    <li className="nav-item"><a href="#" className="nav-link px-2 text-white">FAQs</a></li>
+                    <li className="nav-item"><a href="#" className="nav-link px-2 text-white">About</a></li>
+                </ul>
+                <p className="text-center text-white">© 2021 Resto, Inc</p>
+            </footer>
+    )
+}

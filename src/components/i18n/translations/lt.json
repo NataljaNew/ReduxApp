@@ -1,0 +1,35 @@
+{
+  "items": {
+    "category": "Kategorija:",
+    "price": "Kaina:",
+    "addBtn": "Įdėti į krepšelį",
+    "update": "Atnaujinti produktą",
+    "delete": "ištrinti produktą"
+  },
+  "cart": {
+    "total": "Bendra suma:",
+    "go": "Apmokėti"
+  },
+  "header": {
+    "createProduct": "Sukurti nauja produktą",
+    "createUser": "Sukurti nauja vartotoją",
+    "total": "Suma:",
+    "login": "Prisijungti"
+  },
+  "item": {
+    "title": "Pavadinimas:",
+    "url": "Nuotraukos url:",
+    "category": "Kategorija:",
+    "quantity": "Kiekis (max):",
+    "price": "Kaina:",
+    "submit": "Išsaugoti"
+  },
+  "user": {
+    "name": "Vardas:",
+    "surname": "Pavarde:",
+    "email": "el. paštas:",
+    "password": "slaptažodis:",
+    "repeatPassword": "Pakartoti slaptažodį:",
+    "submit": "Išsaugoti"
+  }
+}
